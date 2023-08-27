@@ -1,4 +1,6 @@
-![alt text](unifeg.png)
+<div align="center">
+  ![Logo do Unifeg](unifeg.png)
+</div>
 
 # PIC - Programa de Iniciação Científica - Unifeg - 2023
 
