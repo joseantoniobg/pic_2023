@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # leitura do arquivo com os dados para análise
-dataset = pd.read_csv('dados2.csv')
+dataset = pd.read_csv('exemplo.csv')
 
 # assume nossas variáveis de análise como todas as colunas menos a última
 x = dataset.iloc[:, :-1].values
