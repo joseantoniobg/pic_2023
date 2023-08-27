@@ -1,4 +1,4 @@
-![alt text](https://www.unifeg.edu.br/fundeg/img/logo-unifeg.png)
+![alt text](unifeg.png)
 
 # PIC - Programa de Iniciação Científica - Unifeg - 2023
 
