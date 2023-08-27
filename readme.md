@@ -1,3 +1,5 @@
+![alt text](https://www.unifeg.edu.br/fundeg/img/logo-unifeg.png)
+
 # PIC - Programa de Iniciação Científica - Unifeg - 2023
 
 ## Regressão Logística com Python
