@@ -1,6 +1,9 @@
-# Regressão Logística com Python
+# PIC - Programa de Iniciação Científica - Unifeg - 2023
+
+## Regressão Logística com Python
 
 Esse projeto foi desenvolvido durante o desenvolvimento do PIC (Programa de Iniciação Científica) do Unifeg Guaxupé.
+O presente repositório contém o código utilizado para o processamento dos dados e o documento elaborado durante o programa, ocorrido entre fevereiro e dezembro de 2023.
 
 ## Para poder executar:
 
