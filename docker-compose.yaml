@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  lr:
+    build:
+      context: ./
+    container_name: lr
+    volumes:
+      - ./:/app
+    tty: true
